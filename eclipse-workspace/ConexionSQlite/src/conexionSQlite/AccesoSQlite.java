@@ -35,7 +35,6 @@ public class AccesoSQlite {
 			System.out.println("No has conectado con la base de datos");	
 		
 		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
